@@ -14,3 +14,8 @@ We will ask the user to fill  which cells she/he wants, and then our program goi
 5. IsValid
 6. solve
 7. print
+
+Group members:
+- Albandry AlQaseemi
+- Samirah Alhusayni
+- Afra Allahyani
